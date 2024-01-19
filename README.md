@@ -23,7 +23,7 @@
 ```bash
 git clone https://github.com/Nizar-Bd/telegram-friend-bot.git
 
-cd telegram-friend-bot
+cd telegram-mistral-ai-chat-bot
 ```
 **2. Install the prerequisites**
 ```bash
