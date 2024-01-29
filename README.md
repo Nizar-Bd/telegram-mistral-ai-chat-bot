@@ -27,7 +27,7 @@ cd telegram-mistral-ai-chat-bot
 ```
 **2. Install the prerequisites**
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 **3. Set your environment variables**
 
